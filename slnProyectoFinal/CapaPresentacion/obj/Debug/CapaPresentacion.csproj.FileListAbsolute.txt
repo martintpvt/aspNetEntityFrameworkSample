@@ -1,0 +1,74 @@
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\bin\ApplicationInsights.config
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\bin\roslyn\csc.exe
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\bin\roslyn\vbc.exe
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\bin\CapaPresentacion.dll.config
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\bin\CapaPresentacion.dll
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\bin\CapaPresentacion.pdb
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\bin\CapaNegocio.dll
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\bin\Microsoft.AI.Web.dll
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\bin\Microsoft.AI.WindowsServer.dll
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\bin\Microsoft.ApplicationInsights.dll
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\bin\CapaDatos.dll
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\bin\CapaNegocio.pdb
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\bin\Microsoft.AI.Web.xml
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\bin\Microsoft.AI.WindowsServer.xml
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\bin\Microsoft.ApplicationInsights.xml
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\bin\CapaDatos.pdb
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\bin\ApplicationInsights.config
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\bin\roslyn\csc.exe
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\bin\roslyn\vbc.exe
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\bin\CapaPresentacion.dll.config
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\bin\CapaNegocio.dll
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\bin\Microsoft.AI.Web.dll
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\bin\CapaDatos.dll
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\bin\CapaNegocio.pdb
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\bin\Microsoft.AI.Web.xml
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\bin\CapaDatos.pdb
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

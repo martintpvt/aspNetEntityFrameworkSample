@@ -1,0 +1,14 @@
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaNegocio\bin\Debug\CapaNegocio.dll
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaNegocio\bin\Debug\CapaNegocio.pdb
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaNegocio\bin\Debug\CapaDatos.dll
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaNegocio\bin\Debug\CapaDatos.pdb
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaNegocio\obj\Debug\CapaNegocio.dll
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaNegocio\obj\Debug\CapaNegocio.pdb

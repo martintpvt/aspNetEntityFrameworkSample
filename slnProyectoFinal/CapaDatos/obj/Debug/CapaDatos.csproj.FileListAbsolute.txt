@@ -1,0 +1,10 @@
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaDatos\bin\Debug\CapaDatos.dll
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaDatos\bin\Debug\CapaDatos.pdb
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaDatos\obj\Debug\CapaDatos.dll
+c:\users\martin\documents\visual studio 2015\Projects\slnProyectoFinal\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Martin\Documents\udla\lenguaje de programacion 2\proyecto final\slnProyectoFinal\CapaDatos\obj\Debug\CapaDatos.pdb

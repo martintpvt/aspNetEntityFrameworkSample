@@ -1,0 +1,41 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="mstPrincipal.master.cs" Inherits="CapaPresentacion.mstPrincipal" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Sistema de Ventas de Llantas</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+
+    <!-- Scripts -->
+    <script src="/recursos/js/jquery.min.js"></script>
+    <script src="/recursos/js/bootstrap.min.js"></script>
+
+    <!-- Estilos -->
+    <link rel="stylesheet" type="text/css" href="/recursos/css/global.css" />
+    <link rel="stylesheet" type="text/css" href="/recursos/css/bootstrap.min.css" />
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <asp:ContentPlaceHolder ID="Menu" runat="server">
+        </asp:ContentPlaceHolder>
+        <div id="header">
+
+            <div class="container">
+                <div class="span4 col-md-4">
+                    <img class="img-responsive" src="/recursos/imagenes/logo.png" />
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <asp:ContentPlaceHolder ID="Contenido" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

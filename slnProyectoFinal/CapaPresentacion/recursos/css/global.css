@@ -1,0 +1,28 @@
+﻿#header {
+    background-color: #FFD398;
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+nav.navbar.navbar-inverse {
+    border-radius: 0;
+    margin-bottom: 0;
+}
+.formulario {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.form-control {
+    max-width: 225px;
+}
+.warning-passwords {
+    color: #ff0c00;
+}
+.bottom-line {
+    border-bottom: 1px solid #ccc;
+}
+.top-space {
+    padding-top: 10px;
+}
+.bottom-space {
+    padding-bottom: 10px;
+}
